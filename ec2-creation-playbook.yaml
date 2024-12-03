@@ -1,0 +1,8 @@
+---
+- name: Creating resources on aws through ansible
+  hosts: localhost
+  connection: local
+  roles:
+    - ec2-instance
+
+
