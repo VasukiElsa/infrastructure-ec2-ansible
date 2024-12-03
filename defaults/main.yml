@@ -1,0 +1,7 @@
+---
+# defaults file for ec2-instance
+instance_name : elsa
+key_name : KeyValue
+vpc_subnet_id : subnet-0af400c57b486c204
+instance_type: t2.micro
+image_id : ami-022ce6f32988af5fa
